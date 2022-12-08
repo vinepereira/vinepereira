@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Vinícius+Pereira;I'm+26+years+old;I'm+from+Caxias+do+Sul+-+RS;I'm+currently+studying+HTML+CSS+JavaScript;Be+Welcome!+:%29)](https://github.com/vinepereira)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Vinícius+Pereira;I'm+26+years+old;I'm+from+Caxias+do+Sul+-+RS;I'm+currently+studying+HTML+CSS+JavaScript;Be+Welcome!+😄)](https://github.com/vinepereira)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinepereira&show_icons=true&count_private=true&hide_border=true&title_color=FFA500&icon_color=00bfbf&text_color=FFF0E3&bg_color=0d1117" alt="Vinícius Pereira github stats" /> 
